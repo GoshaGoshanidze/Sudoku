@@ -12,8 +12,10 @@
   <p>Код написан в процедурном стиле и не использует объектно-ориентированное программирование.</p>
 </div>
 
+---
+
 <div id="Image" align="center">
-  <img src="https://github.com/GoshaGoshanidze/Sudoku/blob/main/Sudoku/images/SudokuPresent.png" width="40%">
+  <img src="https://github.com/GoshaGoshanidze/Sudoku/blob/main/Sudoku/images/SudokuPresent.png" width="60%">
 </div>
 
 ---
